@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. Light only for now. -->
+    <style name="Base.Theme.UmmApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/primary_dark</item>
+        <item name="colorError">@color/red</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.UmmApp" parent="Base.Theme.UmmApp" />
+</resources>

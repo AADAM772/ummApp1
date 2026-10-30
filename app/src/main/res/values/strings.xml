@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ummApp</string>
+    <string name="university_name">UMM University</string>
+
+    <string name="login_subtitle">Sign in with your university email</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login">Log in</string>
+    <string name="login_error">Incorrect email or password</string>
+    <string name="demo_accounts">Demo accounts (tap to fill)</string>
+
+    <string name="action_logout">Log out</string>
+    <string name="section_workspace">Your workspace</string>
+    <string name="section_campus">Campus</string>
+
+    <string name="emergency_title">Send emergency alert?</string>
+    <string name="emergency_message">Security and the Health Centre will be notified with your location.</string>
+    <string name="emergency_send">Send alert</string>
+    <string name="emergency_sent">Alert sent to Security and the Health Centre</string>
+
+    <string name="empty_list">Nothing here yet</string>
+    <string name="action_new_request">New request</string>
+    <string name="action_new_message">New message</string>
+    <string name="action_new_announcement">New announcement</string>
+    <string name="action_submit_results">Submit results to HOD</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_reject">Reject</string>
+    <string name="action_reply">Reply</string>
+    <string name="action_message">Message</string>
+    <string name="action_close">Close</string>
+
+    <string name="hint_choose">Choose</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_details">Details</string>
+    <string name="hint_message">Message</string>
+    <string name="hint_course">Course (e.g. CSC 205 Databases)</string>
+    <string name="hint_results_summary">Summary (e.g. 55 students, mean grade B)</string>
+
+    <string name="hint_messages">Tap a message to read and reply.</string>
+    <string name="hint_my_requests">Requests go to the right office automatically. Tap one to see its progress.</string>
+    <string name="hint_directory">Tap a person to send them a message.</string>
+    <string name="hint_alerts">Tap an alert to respond. The sender is notified.</string>
+    <string name="hint_marks">Submitted results go to the HOD, then the Dean, then the Registrar for release.</string>
+    <string name="hint_inbox">Requests sent to your office. Tap one to act on it or message the sender.</string>
+
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_pay_fees">Pay fees with M-Pesa</string>
+    <string name="hint_amount">Amount (KES)</string>
+    <string name="hint_phone">M-Pesa phone number</string>
+    <string name="hint_fees">Payments go to the Finance Office. You will get a receipt in Messages.</string>
+    <string name="hint_board">You manage this list. Everyone who uses this screen sees your changes. Tap an item to remove it.</string>
+    <string name="remove_item_title">Remove this item?</string>
+    <string name="remove_item_message">It will no longer be visible to anyone.</string>
+    <string name="invalid_amount">Enter a valid amount</string>
+    <string name="payment_done">Payment of %1$s sent. This is a demo, no money was charged.</string>
+
+    <string name="message_to">Message to %1$s</string>
+    <string name="message_sent">Message sent</string>
+    <string name="results_submitted">Results sent to the HOD for approval</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+</resources>
